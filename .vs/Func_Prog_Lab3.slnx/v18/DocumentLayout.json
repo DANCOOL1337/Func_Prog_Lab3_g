@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BOSS\\source\\repos\\Func_Prog_Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBFC1DD9-4EDA-4B3F-8BDC-2AA2AF99A63C}|Func_Prog_Lab3\\Func_Prog_Lab3.fsproj|c:\\users\\boss\\source\\repos\\func_prog_lab3\\func_prog_lab3\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{EBFC1DD9-4EDA-4B3F-8BDC-2AA2AF99A63C}|Func_Prog_Lab3\\Func_Prog_Lab3.fsproj|solutionrelative:func_prog_lab3\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\BOSS\\source\\repos\\Func_Prog_Lab3\\Func_Prog_Lab3\\Program.fs",
+              "RelativeDocumentMoniker": "Func_Prog_Lab3\\Program.fs",
+              "ToolTip": "C:\\Users\\BOSS\\source\\repos\\Func_Prog_Lab3\\Func_Prog_Lab3\\Program.fs",
+              "RelativeToolTip": "Func_Prog_Lab3\\Program.fs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAALgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-12T18:29:21.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

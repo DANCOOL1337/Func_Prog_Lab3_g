@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Func_Prog_Lab3">
+    <resource name="FSharpSignatureData.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Func_Prog_Lab3" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Func_Prog_Lab3" action="remove"></resource>
+  </assembly>
+</linker>
