@@ -1,7 +1,7 @@
 ﻿open System
 
 //Zadanie 1
-(*
+//(*
 //Основная последовательность
 let validBinaries = seq [ "1"; "10"; "11"; "100"; "101"
     ; "110"; "111"; "1000"; "1001" ]
@@ -50,13 +50,13 @@ let startConversionProcess () =
 let main argv =
     startConversionProcess ()
     0
-*)
+//*)
 
 
 
 //Zadanie 2
 
-(*
+//(*
 // Проверка
 let isValidHexChar (c: char) =
     let upperC = Char.ToUpper(c)
@@ -120,7 +120,7 @@ let runHexProgram () =
 let main argv =
     runHexProgram ()
     0
-*)
+//*)
 
 //Zadanie 3
 //(*
