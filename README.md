@@ -1,4 +1,4 @@
-# Козин Данила КМБ-1.2024 Лабораторная №1
+# Козин Данила КМБ-1.2024 Лабораторная №3
 
 # Задание 1
 
@@ -81,5 +81,6 @@
 
 ### Тестирование
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/37b4de92-ee8a-44ad-bfac-22fc6cabf292" />
+
 
 
